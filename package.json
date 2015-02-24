@@ -1,0 +1,21 @@
+{
+  "name": "jsclass",
+  "version": "0.0.1",
+  "description": "javascript class factory",
+  "main": "jsclass.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "keywords": [
+    "class",
+    "javascript",
+    "jsclass"
+  ],
+  "author": "Orlando Del Aguila <orlando@orlandodelaguila.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jasmine": "^0.9.1",
+    "jasmine-node": "^1.14.5"
+  }
+}
